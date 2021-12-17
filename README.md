@@ -1,3 +1,3 @@
 # Time-series-analysis1
 Time series analysis using interpolation - Python
-http://nbviewer.Jupiter.org/
+https://adebola-dev.github.io/Time-series-analysis1/
